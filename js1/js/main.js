@@ -1,4 +1,5 @@
 (function(){
+	console.log("slavik dupa!");
 	var ul1 = document.getElementsByClassName('foreground')[0];
 	var ulCihldNodes = ul1.ulCihldNodes;
 	for (var i = 0; i < ulCihldNodes.length; i++) {
