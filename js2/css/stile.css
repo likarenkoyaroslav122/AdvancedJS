@@ -1,0 +1,14 @@
+body > p:first-of-type:first-letter {
+	font-size: 48px;
+}
+ul > li:nth-last-of-type(2){
+	border-bottom: 4px solid red;
+}
+ul  :not li{
+	color: red;
+}
+
+p[data-emet-attr$="29"]:first-line{
+	color: gray;
+}
+
